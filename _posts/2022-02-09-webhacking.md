@@ -6,7 +6,6 @@ categories:
 tags:
 - 웹해킹
 - 자바스크립트
-- 개발자
 
 toc_label: 목차
 toc: true
