@@ -3,7 +3,6 @@ title: "깃허브 튜토리얼"
 layout: archive
 permalink: categories/cpp
 author_profile: true
-sidebar_main: true
 ---
 
 
