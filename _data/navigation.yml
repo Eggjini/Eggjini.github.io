@@ -10,3 +10,20 @@ main:
   #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
+  
+docs:
+  [![Hits](https://hits.sh/eggjini.github.io.svg?view=today-total&style=for-the-badge&label=Visits&extraCount=19&color=7f22fd&labelColor=d9d9d9&logo=Github)](https://hits.sh)
+  - title: WEB
+    children:
+      - title: "HTML / CSS"
+        url: html-css/
+      - title: "자바스크립트"
+        url: js/
+  - title: 보안
+    children:
+      - title: "웹해킹"
+        url: webhacking/
+  - title: C++
+  - title: 파이썬
+  - title: 꿀팁
+      
