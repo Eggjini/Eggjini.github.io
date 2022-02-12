@@ -2,13 +2,13 @@
 title:  "그라데이션 CSS 간편하게 적용하기! - WebGradient"
 excerpt: "CSS에서 그라데이션, 간편하게 적용해보자"
 categories: 
-- 꿀팁
+- 
 tags:
 - HTML
 - CSS
 - 개발자
 
-toc_label: 목차
+toc_label: 그라데이션
 toc: true
 toc_sticky: true
  
