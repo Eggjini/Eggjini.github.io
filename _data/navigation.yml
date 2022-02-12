@@ -1,9 +1,9 @@
 # main links
 main:
   - title: "HOME"
-    url: https://eggjini.github.io/
+    url: https://eggjini.github.io
   - title: "TISTORY"
-    url: https://eggjini.github.io/github
+    url: https://eggdesign.tistory.com{:target = "blank}
   - title: "VELOG"
     url: https://velog.io/@egg_jini
   - title: "GITHUB"
