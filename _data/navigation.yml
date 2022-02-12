@@ -23,6 +23,9 @@ docs:
       - title: "웹해킹"
         url: webhacking/
   - title: C++
+    url: cpp/
   - title: 파이썬
+    url: python/
   - title: 꿀팁
+    url: tips/
       
