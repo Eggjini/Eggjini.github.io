@@ -12,7 +12,7 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "custom" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "purple" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "ko-KR"
@@ -108,9 +108,9 @@ author:
   location         : "대한민국"
   email            : "egg.design@daum.net"
   links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:egg.design@daum.net"
+    - # label: "Email"
+      # icon: "fas fa-fw fa-envelope-square"
+      # url: "mailto:egg.design@daum.net"
     - label: "Tistory"
       icon: "fas fa-fw fa-link"
       url: "https://eggdesign.tistory.com"
