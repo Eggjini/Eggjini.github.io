@@ -6,7 +6,6 @@ categories:
 tags:
 - HTML
 - 자바스크립트
-- 개발자
 
 toc_label: 코드샌드박스
 toc: true
