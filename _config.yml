@@ -108,9 +108,6 @@ author:
   location         : "대한민국"
   email            : "egg.design@daum.net"
   links:
-    - # label: "Email"
-      # icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:egg.design@daum.net"
     - label: "Tistory"
       icon: "fas fa-fw fa-link"
       url: "https://eggdesign.tistory.com"
