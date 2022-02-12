@@ -1,7 +1,11 @@
 # main links
 main:
-  - title: "Quick-Start Guide"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+  - title: "HTML / CSS"
+    url: https://eggjini.github.io/html-css
+  - title: "깃허브"
+    url: https://eggjini.github.io/github
+  - title: "꿀팁"
+    url: https://eggjini.github.io/tips
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
