@@ -3,7 +3,7 @@ main:
   - title: "HOME"
     url: https://eggjini.github.io
   - title: "TISTORY"
-    url: https://eggdesign.tistory.com{:target = "blank}
+    url: https://eggdesign.tistory.com
   - title: "VELOG"
     url: https://velog.io/@egg_jini
   - title: "GITHUB"
