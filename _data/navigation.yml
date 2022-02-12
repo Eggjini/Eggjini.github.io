@@ -1,7 +1,9 @@
 # main links
 main:
-  - title: "GITHUB"
-    url: https://github.com/Eggjini
+  - title: "카테고리"
+    url: https://eggjini.github.com/categories
+  - title: "태그"
+    url: https://eggjini.github.com/tags
   - title: "TISTORY"
     url: https://eggdesign.tistory.com
   - title: "VELOG"
