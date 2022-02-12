@@ -12,7 +12,6 @@ main:
   #   url: /sitemap/
   
 docs:
-  [![Hits](https://hits.sh/eggjini.github.io.svg?view=today-total&style=for-the-badge&label=Visits&extraCount=19&color=7f22fd&labelColor=d9d9d9&logo=Github)](https://hits.sh)
   - title: WEB
     children:
       - title: "HTML / CSS"
