@@ -6,7 +6,6 @@ categories:
 tags:
 - HTML
 - CSS
-- 개발자
 
 toc_label: 그라데이션
 toc: true
