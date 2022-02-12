@@ -103,7 +103,7 @@ analytics:
 # Site Author
 author:
   name             : "에그지니"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/egg.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "ver 2.0"
   location         : "대한민국"
   email            : "egg.design@daum.net"
