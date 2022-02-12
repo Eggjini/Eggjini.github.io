@@ -12,16 +12,14 @@ main:
   #   url: /sitemap/
   
 docs:
-  - title: WEB
-    children:
-      - title: "HTML / CSS"
-        url: html-css/
-      - title: "자바스크립트"
-        url: js/
-  - title: 보안
-    children:
-      - title: "웹해킹"
-        url: webhacking/
+  - title: HTML / CSS
+    url: html-css/
+  - title: 자바스크립트
+    url: js/
+  - title: 깃허브
+    url: github/    
+  - title: 웹해킹
+    url: webhacking/
   - title: C++
     url: cpp/
   - title: 파이썬
