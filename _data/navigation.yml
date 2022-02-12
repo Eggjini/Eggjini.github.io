@@ -1,7 +1,7 @@
 # main links
 main:
- - title: "Category"
-    url: "/categories/"
+ - title: "GITHUB"
+    url: https://github.com/Eggjini
   - title: "TISTORY"
     url: https://eggdesign.tistory.com
   - title: "VELOG"
