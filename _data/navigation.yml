@@ -1,13 +1,12 @@
 # main links
 main:
-  - title: "HOME"
-    url: https://eggjini.github.io
+ - title: "Category"
+    url: "/categories/"
   - title: "TISTORY"
     url: https://eggdesign.tistory.com
   - title: "VELOG"
     url: https://velog.io/@egg_jini
-  - title: "GITHUB"
-    url: https://github.com/Eggjini
+    
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
