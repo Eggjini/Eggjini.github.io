@@ -2,9 +2,10 @@
 title:  "요즘 인기있는 온라인 코드 작성기 (IDE) 코드샌드박스! CodeSandbox"
 excerpt: "코드샌드박스로 간단한 웹페이지를 만들어 봅시다."
 categories: 
-- html_css
+- HTML / CSS
 tags:
 - HTML
+- CSS
 - 자바스크립트
 
 toc_label: 코드샌드박스
