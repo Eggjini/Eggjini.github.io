@@ -1,9 +1,8 @@
 ---
-title:  "깃허브 블로그 만들고, 설정하기 [Minimal Mistakes]"
+title:  "[깃허브 블로그]깃허브 블로그 만들고 설정하기, Minimal Mistakes"
 excerpt: "Minimal Mistakes 테마로 깃허브 블로그를 만들고, 기본 설정도 해 보자!"
 categories: 
-- 깃허브
-- 블로그
+- 깃허브 블로그
 tags:
 - Minimal Mistakes
 - 깃허브
