@@ -432,19 +432,29 @@ print ("뭘봐?")
 ```
 ~~~
 
-이렇게 `[```]` 이나 `[~~~]` 를 입력하고, 언어 종류를 써 준 다음 안에 코드를 작성하면 코드를 나타낼 수 있어요. (색칠까지 된 상태로요!)
+이렇게
+~~~markdown
+[```] 이나 [~~~]
+~~~
+를 입력하고, 언어 종류를 써 준 다음 안에 코드를 작성하면 코드를 나타낼 수 있어요. (색칠까지 된 상태로요!)
 
 이렇게 나타내는게 못마땅하거나, 쓰고 싶지 않으시다면
-👉 https://gist.github.com/
-👉 https://carbon.now.sh/
-👉 https://colorscripter.com/
+
+👉 [https://gist.github.com/](https://gist.github.com/)
+
+👉 [https://carbon.now.sh/](https://carbon.now.sh/)
+
+👉 [https://colorscripter.com/](https://colorscripter.com/)
+
 
 이런걸 이용해서 코드를 작성하시면 될 것 같네요.
 
 # 참고한 블로그들
 이러한 내용을 알게 해주셔서 (감사합니다) 
-- https://eona1301.github.io/categories/
-- https://ansohxxn.github.io/blog/posting/
+
+- [https://eona1301.github.io/categories/](https://eona1301.github.io/categories/)
+- 
+- [https://ansohxxn.github.io/blog/posting/](https://ansohxxn.github.io/blog/posting/)
 
 
 
