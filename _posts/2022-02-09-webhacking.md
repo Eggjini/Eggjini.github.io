@@ -1,5 +1,5 @@
 ---
-title:  "웹 해킹 연습 사이트 - webhacking.kr 사용법"
+title:  "[보안 / 해킹] 웹 해킹 연습 사이트 - webhacking.kr 사용법"
 excerpt: "webhacking.kr 1번, 14번, 16번 문제 해설!"
 categories: 
 - 보안 / 해킹
