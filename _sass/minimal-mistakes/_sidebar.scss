@@ -139,7 +139,7 @@
 
     @include breakpoint($large) {
       padding: 5px;
-      border: 1px solid $border-color;
+      border: 1.5px solid $border-color;
     }
   }
 }
@@ -150,6 +150,7 @@
   padding-left: 15px;
   padding-right: 25px;
   line-height: 1;
+  font-family: $cute;
 
   @include breakpoint($large) {
     display: block;
@@ -175,10 +176,12 @@
 .sidebar .author__name {
   font-family: $sans-serif;
   font-size: $type-size-5;
+  font-family: $cute;
 }
 
 .author__bio {
   margin: 0;
+  font-family: $cute;
 
   @include breakpoint($large) {
     margin-top: 10px;
