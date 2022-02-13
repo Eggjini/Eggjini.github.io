@@ -1,5 +1,5 @@
 ---
-title:  "그라데이션 CSS 간편하게 적용하기! - WebGradient"
+title:  "[꿀팁!]그라데이션 CSS 간편하게 적용하기! - WebGradient"
 excerpt: "CSS에서 그라데이션, 간편하게 적용해보자"
 categories: 
 - 꿀팁
